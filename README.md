@@ -30,7 +30,7 @@ Elle permet de comparer plusieurs modèles de **classification binaire** afin de
 
 ## Aperçu du Dashboard
 
-![Dashboard streamlit]("C:/Users/gnang/OneDrive/Images/Screenshots/Dashboard Streamlit.png")
+<img width="1905" height="910" alt="image" src="https://github.com/user-attachments/assets/563dd849-4f48-41b4-8a9d-6cde356b8f9d" />
 
 ---
 
