@@ -45,8 +45,7 @@ Chaque ligne représente un champignon avec ses caractéristiques (couleur, tail
 
 ### 1. Cloner le repo
 
-git clone https://github.com/Daniel-D444/Dashbord---Data-Analysis.git
-cd Dashbord---Data-Analysis
+git clone https://github.com/Daniel-D444/ML---Interactive-dashboard-with-Streamlit-Python.git
 
 ### 2. Installer les dépendances (Télécharger au préalable requirements.txt)
 
