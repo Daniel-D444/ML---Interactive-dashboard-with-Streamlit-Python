@@ -54,5 +54,5 @@ pip install -r requirements.txt
 
 ### 3. Exécuter depuis un terminal
 
-streamlit run Appstreamlit.py
+Streamlit run Appstreamlit.py
 
